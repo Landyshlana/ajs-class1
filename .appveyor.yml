@@ -2,7 +2,8 @@ environment:
   nodejs_version: "18"
 
 branches:
-  only: - main
+  only: 
+      - main
 
 cache: node_modules  # кеширование
 
