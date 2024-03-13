@@ -1,5 +1,5 @@
 import './js/character';
-import './js/Bowman';
+import './js/Bowerman';
 import './js/Swordsman';
 import './js/Magician';
 import './js/Undead';
