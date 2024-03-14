@@ -1,4 +1,4 @@
-import  Character from "../Daemon"
+import Character from "../Daemon"
 
 test ('обьект', ()=>{
     expect( new Character('Timmi','Daemon')).toEqual({

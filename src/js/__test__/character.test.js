@@ -7,6 +7,9 @@ test('выброс ошибки при неправильной длине name'
 test('выброс ошибки при неправильной длине name', () => {
 	expect(()=>new Character('testtesttest', 'Magician')).toThrowError(new Error('ошибка'));
 });
+test('выброс ошибки при неправильном типе', () => {
+	expect(()=>new Character('test', 'Mag')).toThrowError(new Error('ошибка'));
+});
 test('обьект', () => {
 	expect(new Character('Timmi', 'Magician')).toEqual({
 		name: 'Timmi',
