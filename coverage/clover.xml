@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1710384319320" clover="3.2.0">
-  <project timestamp="1710384319320" name="All files">
+<coverage generated="1710522368265" clover="3.2.0">
+  <project timestamp="1710522368265" name="All files">
     <metrics statements="34" coveredstatements="34" conditionals="17" coveredconditionals="11" methods="9" coveredmethods="9" elements="60" coveredelements="54" complexity="0" loc="34" ncloc="34" packages="1" files="7" classes="7"/>
     <file name="Bowerman.js" path="C:\Users\Ландыш\Desktop\ajs-class1\src\js\Bowerman.js">
       <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>

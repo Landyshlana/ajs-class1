@@ -16,8 +16,8 @@ test('обьект', () => {
 		type: 'Magician',
 		health: 100,
 		level: 1,
-		attack: 0,
-		defence: 0,
+		attack: undefined,
+		defence: undefined,
 	});
 });
 test('error levelUp', () => {
